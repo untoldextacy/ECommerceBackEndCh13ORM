@@ -15,7 +15,7 @@ To get started with the E-Commerce API, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-api.git
+   git clone https://github.com/untoldextacy/ECommerceBackEndCh13ORM
    cd e-commerce-api
    ```
 
